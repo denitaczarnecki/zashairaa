@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jiecheghu.ubrigens.com/sitemap.xml
